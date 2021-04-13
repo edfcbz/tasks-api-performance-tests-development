@@ -33,7 +33,7 @@ Download the complete project by GitHub option
 
 ## 📌 Version
 
-* Tags in https://github.com/tash-food-delivery-mobile-app
+* Tags in https://github.com/tasks-api-performance-tests-development
 
 ## ✒️ Author
 
